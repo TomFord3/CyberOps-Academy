@@ -20,7 +20,6 @@ How many places do I need to edit?
 Why is using variables better than typing the same value over and over?
 
 Answer in your own words.
-##
 
 ## Answers
 
