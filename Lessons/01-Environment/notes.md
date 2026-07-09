@@ -1,5 +1,5 @@
 # Lesson 1 - Development Environment
-
+## This is where we explain everything.
 ## What I Learned
 
 - Installed Git
