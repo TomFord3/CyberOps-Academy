@@ -3,10 +3,15 @@
 ## What I Learned
 
 - Installed Git
+## Used to track updates/changes in source code during software development
 - Installed Visual Studio Code
+## Software development tool
 - Installed Python
+## Programing Language
 - Configured Git
+## Installed VS Code, Installed Git, Installed Python, told VS code to use Git, Connected VS code, Git, and Github together
 - Created my first repository structure
+## Created different manpages
 
 ## Key Takeaways
 
